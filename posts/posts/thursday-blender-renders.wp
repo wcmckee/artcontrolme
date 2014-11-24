@@ -1,0 +1,30 @@
+<html><body><p>I've been aiming to render off more content with Blender - I have a goal of 2 mins a day when I use Blender. These last two days I've taken a break but on Wednesday and Thursday I managed to render off a lot of content. It's still mostly exploring lights and camera angles. Basic stuff. I'll like to learn more about rigging models and particle systems - youtube videos could be helpful here.
+
+
+Taking this into Unity would also benefit. Wonder if I'd be able to use Python within Unity? Javascript/C# and another language are the supported ones though. I think I'm far better to use a modding or game engine for my ideas rather then try to build something from scratch.
+
+
+
+In this work I took a old scene and created a walk cycle with a background and floor. The only thing that's old is the ship... it was quite a empty scene. I have lots of these older scenes that I'd like to update with newer techniques that I have learnt in Blender.
+
+
+
+<a href="http://artcontrol.me/wp-content/uploads/2012/06/shot2.png"><img class="aligncenter size-large wp-image-579" title="shot2" src="http://artcontrol.me/wp-content/uploads/2012/06/shot2-1024x798.png" alt="" width="584" height="455"></a>
+
+
+
+The background in this is a recent digital painting. I really love the idea of taking my artwork into a 3d space - and using as 2d art assets. It gives something truly unique over using normal textures that I have found on the Internet (though I do enjoy wood workshops texture generator).<a href="http://artcontrol.me/wp-content/uploads/2012/06/shot4.png"><img class="aligncenter size-large wp-image-578" title="shot4" src="http://artcontrol.me/wp-content/uploads/2012/06/shot4-1024x797.png" alt="" width="584" height="454"></a>
+
+
+
+This was a strange walk cycle - I twisted the lefts around at the back. This caused some problems with the modeling - twisting within the body. I had to tone it back somewhat so I didn't have strange movements.<a href="http://artcontrol.me/wp-content/uploads/2012/06/shit6.png"><img class="aligncenter size-large wp-image-577" title="shit6" src="http://artcontrol.me/wp-content/uploads/2012/06/shit6-1024x796.png" alt="" width="584" height="453"></a>
+
+
+
+The model before it was animated. Model and bone structure. Noticed I've gotten much quicker with this whole process. I need to aim to make a new model and cycle at least weekly. Most of my time is spent experimenting with lighting.
+
+
+
+Here is the video:
+
+<iframe src="http://www.youtube.com/embed/5uQxixHxsjM" frameborder="0" width="853" height="480"></iframe></p></body></html>

@@ -1,0 +1,44 @@
+<html><body><p>I've been up north so n access to the internet. Fun trip away, I did have my laptop with me and worked on a little Blender.I haven't drawn. Next week I'm spose to be back in Wellington and I'll have a model on Monday, Tuesday and Wednesday. Looking forward to it. I'll like to keep the Blender learning happen this term. I had a good talk with Andrew yesterday with ideas of what I could do.
+
+
+ 
+
+
+
+Here's an render of recent blender animations:
+
+
+
+<iframe src="http://www.youtube.com/embed/cHxv9HcpCoE" frameborder="0" width="560" height="315"></iframe>
+
+
+
+The first 5 secs is the model recent work I've been doing. These models can be seen in another recent test. This time it's less animated (just the camera), but UV textures have been applied. I'm still trying to understand how UV textures work. I found this video that was a great help:
+
+
+
+<iframe src="http://www.youtube.com/embed/cHxv9HcpCoE" frameborder="0" width="560" height="315"></iframe>
+
+
+
+Changing the mapping coordinates from Generated to UV was what I was missing. The texture was being rendered - but not correctly.
+
+
+
+Screenshots of the animation currently:
+
+
+
+<a href="http://artcontrol.me/wp-content/uploads/2012/04/shot1.jpg"><img class="aligncenter size-full wp-image-260" title="shot1" src="http://artcontrol.me/wp-content/uploads/2012/04/shot1.jpg" alt="" width="800" height="497"></a>Overall shot of my workspace. It's a bit messy but gives me lots to work with.
+
+
+
+<a href="http://artcontrol.me/wp-content/uploads/2012/04/shot2.jpg"><img class="aligncenter size-full wp-image-261" title="shot2" src="http://artcontrol.me/wp-content/uploads/2012/04/shot2.jpg" alt="" width="809" height="641"></a>This shows how I traced my drawings - lining a cube in front - then extrude, rotate, and scale. Working in a 2d plain.
+
+
+
+<a href="http://artcontrol.me/wp-content/uploads/2012/04/shot3.jpg"><img class="aligncenter size-full wp-image-259" title="shot3" src="http://artcontrol.me/wp-content/uploads/2012/04/shot3.jpg" alt="" width="800" height="497"></a>These are not correctly UV mapped yet but I plan to fix them. I'm not sure where this is going but I'll keep experimenting and learning.
+
+
+
+ </p></body></html>
