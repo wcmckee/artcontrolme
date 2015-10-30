@@ -17,15 +17,15 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Will"  # (translatable)
-BLOG_TITLE = "artcontrol.me"  # (translatable)
+BLOG_AUTHOR = "wcmckee"  # (translatable)
+BLOG_TITLE = "artcontrol"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
 SITE_URL = "http://artcontrol.me/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://artcontrol.me/"
-BLOG_EMAIL = "hammersmake@gmail.com"
+BLOG_EMAIL = "will@artcontrol.me"
 BLOG_DESCRIPTION = "Artwork of William Mckee"  # (translatable)
 
 # Nikola is multilingual!
@@ -96,11 +96,12 @@ NAVIGATION_LINKS = {
         ("/archive.html", "Archives"),
         ("/categories/index.html", "Tags"),
         ("/rss.xml", "RSS feed"),
-    ),
+        ("https://twitter.com/art_control", "Twitter"),
+),
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+THEME = "monospace"
 
 # Below this point, everything is optional
 
@@ -111,7 +112,7 @@ THEME = "bootstrap3"
 # (eg. 'Europe/Zurich')
 # Also, if you want to use a different time zone in some of your posts,
 # you can use the ISO 8601/RFC 3339 format (ex. 2012-03-30T23:00:00+02:00)
-TIMEZONE = "UTC"
+TIMEZONE = "NZ"
 
 # If you want to use ISO 8601 (also valid RFC 3339) throughout Nikola
 # (especially in new_post), set this to True.
@@ -160,6 +161,7 @@ TIMEZONE = "UTC"
 
 POSTS = (
             ("posts/*.wp", "posts", "post.tmpl"),
+            ("posts/*.md", "posts", "post.tmpl"),
         )
 PAGES = (
             ("stories/*.wp", "stories", "story.tmpl"),
@@ -408,7 +410,21 @@ RSS_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_rea
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
-LICENSE = ""
+LICENSE = """
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+<img alt="Creative Commons Attribution 4.0 International License"
+style="border-width:0; margin-bottom:12px;"
+src="http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg"></a>
+<br /><span xmlns:dct="http://purl.org/dc/terms/"
+property="dct:title">artcontrol</span> by
+<a xmlns:cc="http://creativecommons.org/ns#" 
+href="http://artcontrol.me" property="cc:attributionName"
+rel="cc:attributionURL">artcontrol</a> is licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/"
+href="http://artcontrol.me" rel="dct:source">http://artcontrol.me</a>.
+
+"""
 # I recommend using the Creative Commons' wizard:
 # http://creativecommons.org/choose/
 # LICENSE = """
