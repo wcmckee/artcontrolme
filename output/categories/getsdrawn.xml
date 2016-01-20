@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>artcontrol (getsdrawn)</title><link>http://artcontrol.me/</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://artcontrol.me/categories/getsdrawn.xml"></atom:link><language>en</language><lastBuildDate>Fri, 30 Oct 2015 09:05:47 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>artfor2015-10-30</title><link>http://artcontrol.me/posts/artfor2015-10-30.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;It's been sometime since I have updated this blog. For several months the site was down. I wrote code, I didn't really do much artwork. 
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>artcontrol (getsdrawn)</title><link>http://artcontrol.me/</link><description></description><atom:link rel="self" href="http://artcontrol.me/categories/getsdrawn.xml" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Wed, 20 Jan 2016 01:50:03 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>artfor2015-12-29</title><link>http://artcontrol.me/posts/artfor2015-12-29.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;I have a Raspberry Pi setup for portable digital painting. It's a 
+Raspberry Pi 2b with a 480x320px monitor attached to the GPIO slots. 
+It's powered by a battery pack. A Wacom tablet is plugged into the 
+USB on the Pi. GIMP is used for the painting and it has the same settings
+as I had on the desktop. Now I can paint anywhere, no power needed!
+Here's a collection of artwork that I have painted&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bbcafe" src="http://artcontrol.me/galleries/2015/12/29/bbcafe.png"&gt;&lt;/p&gt;
+&lt;p&gt;Ideas for the Raspberry Pi internet cafe. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="bbloj-color" src="http://artcontrol.me/galleries/2015/12/29/bbloj-color.png"&gt;&lt;/p&gt;
+&lt;p&gt;Colour logo for BroBeur CyberCafe. I added the line over the colour as 
+it looked better than without it. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="bbloj" src="http://artcontrol.me/galleries/2015/12/29/bbloj.png"&gt;&lt;/p&gt;
+&lt;p&gt;Grayscale BroBeur CyberCafe. Felt it didn't need the line layer.
+Sorry, no line image. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="bbpi" src="http://artcontrol.me/galleries/2015/12/29/bbpig.png"&gt;&lt;/p&gt;
+&lt;p&gt;Signinlca notes. Mostly writing but some drawing on the top left. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="birds" src="http://artcontrol.me/galleries/2015/12/29/birds.png"&gt;&lt;/p&gt;
+&lt;p&gt;More character sketch ideas.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="birthday" src="http://artcontrol.me/galleries/2015/12/29/birthday.png"&gt;&lt;/p&gt;
+&lt;p&gt;I went to a bar on the evening of my birthday and painted this there.
+I found a corner and stayed in it. It was fun. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="ccbrainwave" src="http://artcontrol.me/galleries/2015/12/29/ccbrainwave.png"&gt;&lt;/p&gt;
+&lt;p&gt;Creative Commons ideas mixed with NaNoWriMo stuff. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="cyberwar" src="http://artcontrol.me/galleries/2015/12/29/cyberwar.png"&gt;&lt;/p&gt;
+&lt;p&gt;KiwiCon2015. This was created shortly before the kiwicon conference 
+that I attended this year. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="day12no" src="http://artcontrol.me/galleries/2015/12/29/day12no.png"&gt;&lt;/p&gt;
+&lt;p&gt;This was from Day12 of my NaNoWriMo sketching. During November I wrote
+a 50,000 word novel and would carry my Pi with me sketching ideas and 
+notes for the book.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="day20no" src="http://artcontrol.me/galleries/2015/12/29/day20no.png"&gt;&lt;/p&gt;
+&lt;p&gt;Day 20 of NaNoWriMo. This was more of a summery of the book so far. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="dayno" src="http://artcontrol.me/galleries/2015/12/29/dayno.png"&gt;&lt;/p&gt;
+&lt;p&gt;Writers Den Hamilton mixed with Creative Commons and Open Education 
+Resources Sprints 2016. This is an event happening at the end of April
+that involves creating education resources.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="dayto" src="http://artcontrol.me/galleries/2015/12/29/dayton.png"&gt;&lt;/p&gt;
+&lt;p&gt;Another one from early this year. There are several drawings from local
+Levin kids. They enjoy having a go with the drawing tablet - usually 
+signing their name and creating basic drawings. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="devmob" src="http://artcontrol.me/galleries/2015/12/29/devmob.png"&gt;&lt;/p&gt;
+&lt;p&gt;This is my spot. Some life drawing of the street - light pole and
+building behind it. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="devmobcc" src="http://artcontrol.me/galleries/2015/12/29/devmobcc.png"&gt;&lt;/p&gt;
+&lt;p&gt;DevMob2015 Creative Commons sketches. Ideas for logos, but got carried
+away with characters.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="old" src="http://artcontrol.me/galleries/2015/12/29/gold.png"&gt;&lt;/p&gt;
+&lt;p&gt;Golden Cloud. This was from early in the year. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="hat-girl-bw" src="http://artcontrol.me/galleries/2015/12/29/hat-girl-bw.png"&gt;&lt;/p&gt;
+&lt;p&gt;Grayscale painting of a girl with a cool hat. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="hatgirl" src="http://artcontrol.me/galleries/2015/12/29/hatgirl.png"&gt;&lt;/p&gt;
+&lt;p&gt;Line layer of the girl with a hat. Quite basic really. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="monster" src="http://artcontrol.me/galleries/2015/12/29/monster.png"&gt;
+&lt;img alt="robi" src="http://artcontrol.me/galleries/2015/12/29/robin.png"&gt;
+&lt;img alt="supermarket" src="http://artcontrol.me/galleries/2015/12/29/supermarket.png"&gt;
+&lt;img alt="weirdtwist" src="http://artcontrol.me/galleries/2015/12/29/weirdtwist.png"&gt;
+&lt;img alt="wellyno" src="http://artcontrol.me/galleries/2015/12/29/wellyno.png"&gt;&lt;/p&gt;
+&lt;p&gt;NanoWriMo Final.&lt;/p&gt;&lt;/div&gt;</description><category>digital painting</category><category>getsdrawn</category><category>gimp</category><guid>http://artcontrol.me/posts/artfor2015-12-29.html</guid><pubDate>Mon, 28 Dec 2015 15:46:01 GMT</pubDate></item><item><title>artfor2015-10-30</title><link>http://artcontrol.me/posts/artfor2015-10-30.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;It's been sometime since I have updated this blog. For several months the site was down. I wrote code, I didn't really do much artwork. 
 I think that has to change, so here is my attempt to my art blog running again. I've decided to not use the wp-content path for artwork
 and instead use galleries. Don't worry - all the artwork that was in wp-content is still there. This only applies for future works.&lt;/p&gt;
 &lt;p&gt;I even wrote a script to help me create blog posts. It takes the images in a folder and creates a Markdown file out of them. It also

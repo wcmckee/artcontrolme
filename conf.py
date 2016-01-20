@@ -95,6 +95,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/archive.html", "Archives"),
         ("/categories/index.html", "Tags"),
+	("/galleries", "Galleries"),
         ("/rss.xml", "RSS feed"),
         ("https://twitter.com/art_control", "Twitter"),
 ),

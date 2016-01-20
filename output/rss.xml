@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>artcontrol</title><link>http://artcontrol.me/</link><description>Artwork of William Mckee</description><atom:link rel="self" type="application/rss+xml" href="http://artcontrol.me/rss.xml"></atom:link><language>en</language><lastBuildDate>Tue, 29 Dec 2015 03:55:41 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>artfor2015-12-29</title><link>http://artcontrol.me/posts/artfor2015-12-29.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;img alt="bbcafe" src="http://artcontrol.me/galleries/2015/12/29/bbcafe.png"&gt;&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>artcontrol</title><link>http://artcontrol.me/</link><description>Artwork of William Mckee</description><atom:link rel="self" href="http://artcontrol.me/rss.xml" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Wed, 20 Jan 2016 12:20:24 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>artfor2016-10-19</title><link>http://artcontrol.me/posts/artfor2016-01-19.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;Happy New Year! First post to the year. This selection of digital painting was mostly created at KiwiCon9. It was held in Wellington back in 
+Decembers. It was the first time I attended and was a great experience. I went with my Raspberry Pi and Wacom drawing tablet. People were 
+interested in it, from what I saw I was the only one walking around with a portable Raspberry Pi - and definitely the only one with a Wacom Drawing
+Tablet. &lt;/p&gt;
+&lt;p&gt;Here we go. As always I will talk about each piece above:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ausmil" src="http://artcontrol.me/galleries/2016/01/19/ausmil.png"&gt;&lt;/p&gt;
+&lt;p&gt;Aussy Military. They had someone talk about the aus military and how it 
+relates to security. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="badusb" src="http://artcontrol.me/galleries/2016/01/19/badusb.png"&gt;&lt;/p&gt;
+&lt;p&gt;Fear and Loathing on your Desk: BadUSB, and what you should do about it.
+Robery Fisk talked about the dangers of usb devices. I was lucky 
+enough to meet Fisk the night before his talk at the VIP/speakers 
+party. &lt;/p&gt;
+&lt;p&gt;I had meet one of his work mates at DevMob the week before and hanged out
+with her during KiwiCon9.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bbcafe-line" src="http://artcontrol.me/galleries/2016/01/19/bbcafe-line.png"&gt;&lt;/p&gt;
+&lt;p&gt;An older work of sketching Raspberry Pi ideas. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="cybervikinh-color" src="http://artcontrol.me/galleries/2016/01/19/cybervikinh-color.png"&gt;&lt;/p&gt;
+&lt;p&gt;Cyber Viking Cafe. Colour version. Not much words, mostly drawings of 
+creatures and landscape.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cybervikinh-grayscale" src="http://artcontrol.me/galleries/2016/01/19/cybervikinh-grayscale.png"&gt;&lt;/p&gt;
+&lt;p&gt;The black and white version of Cyber Viking Cafe image. The colour version
+always help define areas in the work.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="iswhaat-line" src="http://artcontrol.me/galleries/2016/01/19/iswhaat-line.png"&gt;&lt;/p&gt;
+&lt;p&gt;Digital Painting from GetsDrawn of IsWhat.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="itwillnotbemine3" src="http://artcontrol.me/galleries/2016/01/19/itwillnotbemine3.png"&gt;&lt;/p&gt;
+&lt;p&gt;Selection of days back in November of painting - mostly novel based 
+sketches. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="keynote" src="http://artcontrol.me/galleries/2016/01/19/keynote.png"&gt;&lt;/p&gt;
+&lt;p&gt;Keynote notes from KiwiCon. They had an event of the NSA swooping in and
+arressting the speaker who was talking about xkeyscore.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="kiwicon6" src="http://artcontrol.me/galleries/2016/01/19/kiwicon6.png"&gt;&lt;/p&gt;
+&lt;p&gt;Thursday after morning tea. Kate Pearce did a talk - stuff I mostly didn't
+understand.&lt;/p&gt;
+&lt;p&gt;Wayne did a talk about red teaming which I found very entertaining and
+informative. It was one of my favorite talks of the conference. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="kiwicon7" src="http://artcontrol.me/galleries/2016/01/19/kiwicon7.png"&gt;&lt;/p&gt;
+&lt;p&gt;More notes on Waynes red teaming talk. The more interesting the talk is,
+the more notes I write. &lt;/p&gt;
+&lt;p&gt;BORN TO SHELL&lt;/p&gt;
+&lt;p&gt;&lt;img alt="kiwiconstart" src="http://artcontrol.me/galleries/2016/01/19/kiwiconstart.png"&gt;&lt;/p&gt;
+&lt;p&gt;Kiwicon 9. CyberWar. Theate of War. Robotic sketches before the event 
+started.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="artykiwico" src="http://artcontrol.me/galleries/2016/01/19/partykiwicon.png"&gt;&lt;/p&gt;
+&lt;p&gt;This was the result of leaving my Pi setup on a talk at the VIP/Speaker
+event at KiwiCon9. Had requests to change the colour to 'hot pink'. 
+Several people had a go with the Wacom Drawing tablet. Gives me a break
+from it!&lt;/p&gt;
+&lt;p&gt;That's a decent post for the start of the year. It is my goal this year
+to keep this site more up to date with my artwork. I have the Raspberry
+Pi portable device that I can use to make digital painting wherever I go
+and write the blog posts using nano and then build the site with Nikola.&lt;/p&gt;&lt;/div&gt;</description><category>digital painting</category><category>gimp</category><category>kiwicon</category><guid>http://artcontrol.me/posts/artfor2016-01-19.html</guid><pubDate>Mon, 18 Jan 2016 15:46:01 GMT</pubDate></item><item><title>artfor2015-12-29</title><link>http://artcontrol.me/posts/artfor2015-12-29.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;I have a Raspberry Pi setup for portable digital painting. It's a 
+Raspberry Pi 2b with a 480x320px monitor attached to the GPIO slots. 
+It's powered by a battery pack. A Wacom tablet is plugged into the 
+USB on the Pi. GIMP is used for the painting and it has the same settings
+as I had on the desktop. Now I can paint anywhere, no power needed!
+Here's a collection of artwork that I have painted&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bbcafe" src="http://artcontrol.me/galleries/2015/12/29/bbcafe.png"&gt;&lt;/p&gt;
 &lt;p&gt;Ideas for the Raspberry Pi internet cafe. &lt;/p&gt;
 &lt;p&gt;&lt;img alt="bbloj-color" src="http://artcontrol.me/galleries/2015/12/29/bbloj-color.png"&gt;&lt;/p&gt;
 &lt;p&gt;Colour logo for BroBeur CyberCafe. I added the line over the colour as 
@@ -50,7 +107,7 @@ away with characters.&lt;/p&gt;
 &lt;img alt="supermarket" src="http://artcontrol.me/galleries/2015/12/29/supermarket.png"&gt;
 &lt;img alt="weirdtwist" src="http://artcontrol.me/galleries/2015/12/29/weirdtwist.png"&gt;
 &lt;img alt="wellyno" src="http://artcontrol.me/galleries/2015/12/29/wellyno.png"&gt;&lt;/p&gt;
-&lt;p&gt;NanoWriMo Final.&lt;/p&gt;&lt;/div&gt;</description><guid>http://artcontrol.me/posts/artfor2015-12-29.html</guid><pubDate>Mon, 28 Dec 2015 11:00:00 GMT</pubDate></item><item><title>artfor2015-10-30</title><link>http://artcontrol.me/posts/artfor2015-10-30.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;It's been sometime since I have updated this blog. For several months the site was down. I wrote code, I didn't really do much artwork. 
+&lt;p&gt;NanoWriMo Final.&lt;/p&gt;&lt;/div&gt;</description><category>digital painting</category><category>getsdrawn</category><category>gimp</category><guid>http://artcontrol.me/posts/artfor2015-12-29.html</guid><pubDate>Mon, 28 Dec 2015 15:46:01 GMT</pubDate></item><item><title>artfor2015-10-30</title><link>http://artcontrol.me/posts/artfor2015-10-30.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;It's been sometime since I have updated this blog. For several months the site was down. I wrote code, I didn't really do much artwork. 
 I think that has to change, so here is my attempt to my art blog running again. I've decided to not use the wp-content path for artwork
 and instead use galleries. Don't worry - all the artwork that was in wp-content is still there. This only applies for future works.&lt;/p&gt;
 &lt;p&gt;I even wrote a script to help me create blog posts. It takes the images in a folder and creates a Markdown file out of them. It also
@@ -165,14 +222,4 @@ Since then the art has been restored but it's not linking correctly on artcontro
 &lt;p&gt;and I agree, RedditGetsDrawn is toxic. I stay away from the subreddit and artistlounge. I do however write Python code to download the most recent images submitted to redditgetsdrawn.&lt;a href="http://wcmckee.com/posts/GetsDrawnDotCom.html"&gt; Here is the code &lt;/a&gt;if you are interested.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/02/ban.png"&gt;&lt;img class="aligncenter size-full wp-image-6219" src="http://artcontrol.me/wp-content/uploads/2015/02/ban.png" alt="ban" width="933" height="444"&gt;&lt;/a&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/02/ban2.png"&gt;&lt;img class="aligncenter size-full wp-image-6220" src="http://artcontrol.me/wp-content/uploads/2015/02/ban2.png" alt="ban2" width="905" height="497"&gt;&lt;/a&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/02/ban3.png"&gt;&lt;img class="aligncenter size-full wp-image-6217" src="http://artcontrol.me/wp-content/uploads/2015/02/ban3.png" alt="ban3" width="1004" height="592"&gt;&lt;/a&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/02/ban4.png"&gt;&lt;img class="aligncenter size-full wp-image-6218" src="http://artcontrol.me/wp-content/uploads/2015/02/ban4.png" alt="ban4" width="914" height="615"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://artcontrol.me/posts/rgd-ban-msgs.html</guid><pubDate>Tue, 10 Feb 2015 00:51:06 GMT</pubDate></item><item><title>kbleu and kieraJo paintings</title><link>http://artcontrol.me/posts/kbleu-and-kierajo-paintings.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Back in Hamilton after a week in Auckland. I took my Dell laptop and drawing tablet but didn't even end up turning it on.&lt;/p&gt;
 &lt;p&gt;I didn't transfer all the artwork I completed before leaving to Auckland, so here it is.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/01/kbleu-line.png"&gt;&lt;img class="aligncenter size-large wp-image-6207" src="http://artcontrol.me/wp-content/uploads/2015/01/kbleu-line-1024x724.png" alt="kbleu-line" width="788" height="557"&gt;&lt;/a&gt; &lt;a href="http://artcontrol.me/wp-content/uploads/2015/01/kbleu-bw.png"&gt;&lt;img class="aligncenter size-large wp-image-6208" src="http://artcontrol.me/wp-content/uploads/2015/01/kbleu-bw-1024x724.png" alt="kbleu-bw" width="788" height="557"&gt;&lt;/a&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/01/kbleu-color.png"&gt;&lt;img class="aligncenter size-large wp-image-6206" src="http://artcontrol.me/wp-content/uploads/2015/01/kbleu-color-1024x724.png" alt="kbleu-color" width="788" height="557"&gt;&lt;/a&gt; &lt;a href="http://artcontrol.me/wp-content/uploads/2015/01/kieraJo-line1.png"&gt;&lt;img class="aligncenter size-large wp-image-6211" src="http://artcontrol.me/wp-content/uploads/2015/01/kieraJo-line1-1024x724.png" alt="kieraJo-line" width="788" height="557"&gt;&lt;/a&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/01/kieraJo-bw1.png"&gt;&lt;img class="aligncenter size-large wp-image-6210" src="http://artcontrol.me/wp-content/uploads/2015/01/kieraJo-bw1-1024x724.png" alt="kieraJo-bw" width="788" height="557"&gt;&lt;/a&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/01/kieraJo-color1.png"&gt;&lt;img class="aligncenter size-large wp-image-6209" src="http://artcontrol.me/wp-content/uploads/2015/01/kieraJo-color1-1024x724.png" alt="kieraJo-color" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://artcontrol.me/posts/kbleu-and-kierajo-paintings.html</guid><pubDate>Thu, 22 Jan 2015 19:12:48 GMT</pubDate></item><item><title>skylarwolfe97</title><link>http://artcontrol.me/posts/skylarwolfe97.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Currently at Linux Conf Aus 2015 in Auckland. Here are several paintings that I completed before I left Hamilton. I've brought my dell laptop to Auckland but have yet to power it up.&lt;/p&gt;
-&lt;p&gt;Enjoy the painting of skylarwolfe97&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/01/skylarwolfe97-line.png"&gt;&lt;img class="aligncenter size-large wp-image-6200" src="http://artcontrol.me/wp-content/uploads/2015/01/skylarwolfe97-line-1024x724.png" alt="skylarwolfe97-line" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Line layer. Portrait in the foreground. Horizon line seprates the landmass and water. The most interesting shape is on the left. Boulders build up with spiky circles above. Tubes connect the spiky circles. The face looks screwed up but it looks better with&lt;/p&gt;
-&lt;p&gt;Why does her face look muddy.&lt;/p&gt;
-&lt;p&gt;Looks like a mozaic&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/01/skylarwolfe97-bw.png"&gt;&lt;img class="aligncenter size-large wp-image-6198" src="http://artcontrol.me/wp-content/uploads/2015/01/skylarwolfe97-bw-1024x724.png" alt="skylarwolfe97-bw" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Grayscale tonal layer. Light for the water and the sky. Dark hair. Landmass is medium. Dark clouds in sky.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/01/skylarwolfe97-colour.png"&gt;&lt;img class="aligncenter size-large wp-image-6199" src="http://artcontrol.me/wp-content/uploads/2015/01/skylarwolfe97-colour-1024x724.png" alt="skylarwolfe97-colour" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Colour layer. For the eyes - blue. Yellow for the skin tones. Red for the hair. Blue for sky. Green water.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://artcontrol.me/posts/skylarwolfe97.html</guid><pubDate>Sun, 11 Jan 2015 04:33:42 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/01/kbleu-line.png"&gt;&lt;img class="aligncenter size-large wp-image-6207" src="http://artcontrol.me/wp-content/uploads/2015/01/kbleu-line-1024x724.png" alt="kbleu-line" width="788" height="557"&gt;&lt;/a&gt; &lt;a href="http://artcontrol.me/wp-content/uploads/2015/01/kbleu-bw.png"&gt;&lt;img class="aligncenter size-large wp-image-6208" src="http://artcontrol.me/wp-content/uploads/2015/01/kbleu-bw-1024x724.png" alt="kbleu-bw" width="788" height="557"&gt;&lt;/a&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/01/kbleu-color.png"&gt;&lt;img class="aligncenter size-large wp-image-6206" src="http://artcontrol.me/wp-content/uploads/2015/01/kbleu-color-1024x724.png" alt="kbleu-color" width="788" height="557"&gt;&lt;/a&gt; &lt;a href="http://artcontrol.me/wp-content/uploads/2015/01/kieraJo-line1.png"&gt;&lt;img class="aligncenter size-large wp-image-6211" src="http://artcontrol.me/wp-content/uploads/2015/01/kieraJo-line1-1024x724.png" alt="kieraJo-line" width="788" height="557"&gt;&lt;/a&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/01/kieraJo-bw1.png"&gt;&lt;img class="aligncenter size-large wp-image-6210" src="http://artcontrol.me/wp-content/uploads/2015/01/kieraJo-bw1-1024x724.png" alt="kieraJo-bw" width="788" height="557"&gt;&lt;/a&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/01/kieraJo-color1.png"&gt;&lt;img class="aligncenter size-large wp-image-6209" src="http://artcontrol.me/wp-content/uploads/2015/01/kieraJo-color1-1024x724.png" alt="kieraJo-color" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://artcontrol.me/posts/kbleu-and-kierajo-paintings.html</guid><pubDate>Thu, 22 Jan 2015 19:12:48 GMT</pubDate></item></channel></rss>
