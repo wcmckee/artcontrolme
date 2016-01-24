@@ -27,15 +27,15 @@
  </url>
  <url>
   <loc>http://artcontrol.me/2016/index.html</loc>
-  <lastmod>2016-01-20T12:20:00Z</lastmod>
+  <lastmod>2016-01-24T10:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/archive.html</loc>
-  <lastmod>2016-01-20T01:50:00Z</lastmod>
+  <lastmod>2016-01-24T07:27:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/categories/digital-painting.html</loc>
-  <lastmod>2016-01-20T12:20:00Z</lastmod>
+  <lastmod>2016-01-24T10:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/categories/digital.html</loc>
@@ -47,11 +47,11 @@
  </url>
  <url>
   <loc>http://artcontrol.me/categories/gimp.html</loc>
-  <lastmod>2016-01-20T12:20:00Z</lastmod>
+  <lastmod>2016-01-24T10:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/categories/index.html</loc>
-  <lastmod>2016-01-20T01:46:00Z</lastmod>
+  <lastmod>2016-01-24T09:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/categories/kiwicon.html</loc>
@@ -60,6 +60,10 @@
  <url>
   <loc>http://artcontrol.me/categories/painting.html</loc>
   <lastmod>2016-01-18T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://artcontrol.me/categories/writersden.html</loc>
+  <lastmod>2016-01-24T10:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/galleries/2015/06/index.html</loc>
@@ -94,8 +98,12 @@
   <lastmod>2016-01-18T13:39:00Z</lastmod>
  </url>
  <url>
+  <loc>http://artcontrol.me/galleries/2016/01/24/index.html</loc>
+  <lastmod>2016-01-24T07:30:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://artcontrol.me/galleries/2016/01/index.html</loc>
-  <lastmod>2016-01-18T13:39:00Z</lastmod>
+  <lastmod>2016-01-24T07:27:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/galleries/2016/index.html</loc>
@@ -251,7 +259,7 @@
  </url>
  <url>
   <loc>http://artcontrol.me/index-42.html</loc>
-  <lastmod>2016-01-20T01:47:00Z</lastmod>
+  <lastmod>2016-01-24T07:30:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/index-5.html</loc>
@@ -275,7 +283,7 @@
  </url>
  <url>
   <loc>http://artcontrol.me/index.html</loc>
-  <lastmod>2016-01-20T12:20:00Z</lastmod>
+  <lastmod>2016-01-24T10:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/posts/1131.html</loc>
@@ -671,7 +679,7 @@
  </url>
  <url>
   <loc>http://artcontrol.me/posts/artfor2016-01-19.html</loc>
-  <lastmod>2016-01-20T12:20:00Z</lastmod>
+  <lastmod>2016-01-24T07:30:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/posts/asylum-abe.html</loc>
@@ -1988,6 +1996,10 @@
  <url>
   <loc>http://artcontrol.me/posts/whatcha.html</loc>
   <lastmod>2016-01-18T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://artcontrol.me/posts/writersdensketch.html</loc>
+  <lastmod>2016-01-24T10:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/posts/yeah-town.html</loc>
