@@ -102,7 +102,7 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "monospace"
+THEME = "ipython"
 
 # Below this point, everything is optional
 
@@ -165,7 +165,7 @@ POSTS = (
             ("posts/*.md", "posts", "post.tmpl"),
         )
 PAGES = (
-            ("stories/*.wp", "stories", "story.tmpl"),
+            ("stories/*.wp", "", "story.tmpl"),
         )
 
 # One or more folders containing files to be copied as-is into the output.
