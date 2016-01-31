@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>artcontrol</title><link>http://artcontrol.me/</link><description>Artwork of William Mckee</description><atom:link href="http://artcontrol.me/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Wed, 27 Jan 2016 18:03:06 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>writersdensketch</title><link>http://artcontrol.me/posts/writersdensketch.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;More recent drawings from the Raspberry Pi. &lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>artcontrol</title><link>http://artcontrol.me/</link><description>Artwork of William Mckee</description><atom:link rel="self" type="application/rss+xml" href="http://artcontrol.me/rss.xml"></atom:link><language>en</language><lastBuildDate>Sun, 31 Jan 2016 03:03:21 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>richesrituals</title><link>http://artcontrol.me/posts/richesrituals.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;Artwork mostly from Global Game Jam 2016 that I took part in.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="badfeeli" src="http://artcontrol.me/galleries/2016/01/31/badfeeling.png"&gt;&lt;/p&gt;
+&lt;p&gt;Wings, horns, robots, hills, sky and water. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="char" src="http://artcontrol.me/galleries/2016/01/31/char.png"&gt;&lt;/p&gt;
+&lt;p&gt;Render of a 3d model I created in Blender. Walk cycle in game.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="decisons" src="http://artcontrol.me/galleries/2016/01/31/decisons.png"&gt;&lt;/p&gt;
+&lt;p&gt;Wrote this for Writers Den Hamilton. The theme is hard decisons. Will
+edit and write this up, reading it at the next meeting.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="explosive" src="http://artcontrol.me/galleries/2016/01/31/explosive.png"&gt;&lt;/p&gt;
+&lt;p&gt;Lightpost, wat, portrait, signs.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="j2016-backbw" src="http://artcontrol.me/galleries/2016/01/31/ggj2016-backbw.png"&gt;&lt;/p&gt;
+&lt;p&gt;The grayscale background for game. Black strip at top and bottom for 
+cinematic look. Hills with dots and stripes. Sky with clouds,&lt;/p&gt;
+&lt;p&gt;&lt;img alt="j2016-backcolor" src="http://artcontrol.me/galleries/2016/01/31/ggj2016-backcolor.png"&gt;&lt;/p&gt;
+&lt;p&gt;Colour. Blue and purle tinge. Quick loose work.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="j2016-backline" src="http://artcontrol.me/galleries/2016/01/31/ggj2016-backline.png"&gt;&lt;/p&gt;
+&lt;p&gt;Line layer. Other pieces ignore lines and sculped their own path.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="j2016" src="http://artcontrol.me/galleries/2016/01/31/ggj2016.png"&gt;&lt;/p&gt;
+&lt;p&gt;Sketching in the hallway and rego/food area before the start of global
+game jam.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="riches" src="http://artcontrol.me/galleries/2016/01/31/riches.png"&gt;&lt;/p&gt;
+&lt;p&gt;Colour layer created for game. Used the 3d model as reference when 
+painting the logo. Team members are happy with title.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="rihana-bw" src="http://artcontrol.me/galleries/2016/01/31/rihana-bw.png"&gt;&lt;/p&gt;
+&lt;p&gt;Cellistwitch and Rihana grayscale portraits. I like Cellistwitch but 
+Rihanas could use more work. Can you still tell it's her?&lt;/p&gt;
+&lt;p&gt;&lt;img alt="rihana" src="http://artcontrol.me/galleries/2016/01/31/rihana.png"&gt;&lt;/p&gt;
+&lt;p&gt;Line layer. Rihanas face is complete. I have yet to hear her new 
+album.&lt;/p&gt;&lt;/div&gt;</description><guid>http://artcontrol.me/posts/richesrituals.html</guid><pubDate>Sun, 31 Jan 2016 02:25:52 GMT</pubDate></item><item><title>writersdensketch</title><link>http://artcontrol.me/posts/writersdensketch.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;More recent drawings from the Raspberry Pi. &lt;/p&gt;
 &lt;p&gt;&lt;img alt="borntoshell" src="http://artcontrol.me/galleries/2016/01/24/borntoshell.png"&gt;&lt;/p&gt;
 &lt;p&gt;One of the images I missed from the recent KiwiCon post. Includes some
 notes on wireshark and such. &lt;/p&gt;
@@ -258,6 +286,4 @@ Since then the art has been restored but it's not linking correctly on artcontro
 &lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/02/laz-grey.png"&gt;&lt;img class="aligncenter size-large wp-image-6226" src="http://artcontrol.me/wp-content/uploads/2015/02/laz-grey-1024x724.png" alt="laz-grey" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Greyscale tonal layer.&lt;/p&gt;
 &lt;p&gt;Enjoy. It may be good for me to do some digital painting on the laptop. No monitor for the Pi currently.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://artcontrol.me/posts/piart-imagine.html</guid><pubDate>Tue, 17 Feb 2015 02:11:58 GMT</pubDate></item><item><title>rgd ban msgs</title><link>http://artcontrol.me/posts/rgd-ban-msgs.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;These are the ban messages I got from the r/redditgetsdrawn mod ItWillBeMine last year. I had never published these before but the thread over on r/AskReddit regarding Toxic Community sparked me to do so&lt;/p&gt;
-&lt;p&gt;and I agree, RedditGetsDrawn is toxic. I stay away from the subreddit and artistlounge. I do however write Python code to download the most recent images submitted to redditgetsdrawn.&lt;a href="http://wcmckee.com/posts/GetsDrawnDotCom.html"&gt; Here is the code &lt;/a&gt;if you are interested.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/02/ban.png"&gt;&lt;img class="aligncenter size-full wp-image-6219" src="http://artcontrol.me/wp-content/uploads/2015/02/ban.png" alt="ban" width="933" height="444"&gt;&lt;/a&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/02/ban2.png"&gt;&lt;img class="aligncenter size-full wp-image-6220" src="http://artcontrol.me/wp-content/uploads/2015/02/ban2.png" alt="ban2" width="905" height="497"&gt;&lt;/a&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/02/ban3.png"&gt;&lt;img class="aligncenter size-full wp-image-6217" src="http://artcontrol.me/wp-content/uploads/2015/02/ban3.png" alt="ban3" width="1004" height="592"&gt;&lt;/a&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/02/ban4.png"&gt;&lt;img class="aligncenter size-full wp-image-6218" src="http://artcontrol.me/wp-content/uploads/2015/02/ban4.png" alt="ban4" width="914" height="615"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://artcontrol.me/posts/rgd-ban-msgs.html</guid><pubDate>Tue, 10 Feb 2015 00:51:06 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://artcontrol.me/posts/piart-imagine.html</guid><pubDate>Tue, 17 Feb 2015 02:11:58 GMT</pubDate></item></channel></rss>
