@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>artcontrol</title><link>http://artcontrol.me/</link><description>Artwork of William Mckee</description><atom:link rel="self" type="application/rss+xml" href="http://artcontrol.me/rss.xml"></atom:link><language>en</language><lastBuildDate>Sun, 31 Jan 2016 03:03:21 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>richesrituals</title><link>http://artcontrol.me/posts/richesrituals.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;Artwork mostly from Global Game Jam 2016 that I took part in.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>artcontrol</title><link>http://artcontrol.me/</link><description>Artwork of William Mckee</description><atom:link href="http://artcontrol.me/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Fri, 05 Feb 2016 09:36:59 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>owaspnz</title><link>http://artcontrol.me/posts/owaspnz.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;I missed out on attending LCA2016 but was lucky enough to
+make it to OWASP - a one day security conference. 
+Like all the recent conferences I have attended I took in my Raspberry 
+Pi and painted. The Pi was of interest,
+getting questions when morning tea arrived.&lt;/p&gt;
+&lt;p&gt;The drawings from the day:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="owasp16-bus" src="http://artcontrol.me/galleries/2016/02/05/owasp16-bus.png"&gt;&lt;/p&gt;
+&lt;p&gt;Leaving Hamilton early on the bus the majority of this was drawn on the 
+trip to Auckland. It was a long bus trip - 3 hours. The traffic was bad 
+but I arrived only ten minutes late. &lt;/p&gt;
+&lt;p&gt;Sitting up the back I noticed lots of people using Slack, which I was 
+kind of surprised about. The first speaker - Dan Wallis talked about 
+Credit Card Fraud. I drew him with a landscape in the background. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="owasp16-crypto" src="http://artcontrol.me/galleries/2016/02/05/owasp16-crypto.png"&gt;&lt;/p&gt;
+&lt;p&gt;Crypto talk. This is interesting for me as I have played around with 
+hashing passwords with Python a little. Something I would like to 
+explore further. Not allot of drawing here - mostly sketching of words.
+Though I have drawn the company logo - bug. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="owasp16-foo" src="http://artcontrol.me/galleries/2016/02/05/owasp16-foo.png"&gt;&lt;/p&gt;
+&lt;p&gt;FooBlog. Exploring vulnerabilities in a blog. OAUTH2 
+&lt;img alt="owasp16-kaltura" src="http://artcontrol.me/galleries/2016/02/05/owasp16-kaltura.png"&gt;&lt;/p&gt;
+&lt;p&gt;A talk on Kaltura (an open source video platform). This was drawn in the
+afternoon and I started to get too tired to do much at this point. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="owasp16-morni" src="http://artcontrol.me/galleries/2016/02/05/owasp16-morning.png"&gt;&lt;/p&gt;
+&lt;p&gt;Full page of drawings. The mornings I always get lots drawn as I'm fresh.
+Laura Bell had a bunch of images on her slides that I was able to draw. 
+I like it when speakers have images on the slides as it gives me something
+to draw. The only other stuff I can draw is the speaker or things around
+the room (AV equipment etc). &lt;/p&gt;
+&lt;p&gt;&lt;img alt="owasp16-plane" src="http://artcontrol.me/galleries/2016/02/05/owasp16-plane.png"&gt;&lt;/p&gt;
+&lt;p&gt;The final drawing of the day. I give up.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="owasp16-webrtc" src="http://artcontrol.me/galleries/2016/02/05/owasp16-webrtc.png"&gt;&lt;/p&gt;
+&lt;p&gt;A talk on WebRTC. Speaker was very entertaining. Draw a portrait of 
+him and took a bunch of notes.&lt;/p&gt;
+&lt;p&gt;Till next year OWASP...&lt;/p&gt;&lt;/div&gt;</description><guid>http://artcontrol.me/posts/owaspnz.html</guid><pubDate>Fri, 05 Feb 2016 09:07:31 GMT</pubDate></item><item><title>richesrituals</title><link>http://artcontrol.me/posts/richesrituals.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;Artwork mostly from Global Game Jam 2016 that I took part in.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="badfeeli" src="http://artcontrol.me/galleries/2016/01/31/badfeeling.png"&gt;&lt;/p&gt;
 &lt;p&gt;Wings, horns, robots, hills, sky and water. &lt;/p&gt;
 &lt;p&gt;&lt;img alt="char" src="http://artcontrol.me/galleries/2016/01/31/char.png"&gt;&lt;/p&gt;
@@ -274,16 +308,4 @@ Since then the art has been restored but it's not linking correctly on artcontro
 &lt;p&gt;Color. Exploring purples and oranges. Green and Red for Pi.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/monkeys-line.png"&gt;&lt;img class="aligncenter size-large wp-image-6241" src="http://artcontrol.me/wp-content/uploads/2015/03/monkeys-line-1024x724.png" alt="monkeys-line" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Taylor Swift. Landscape, imagaination. Robot on the left&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/monkeys-bw.png"&gt;&lt;img class="aligncenter size-large wp-image-6240" src="http://artcontrol.me/wp-content/uploads/2015/03/monkeys-bw-1024x724.png" alt="monkeys-bw" width="788" height="557"&gt;&lt;/a&gt;  &lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/iwillgetyoufool-line.png"&gt;&lt;img class="aligncenter size-large wp-image-6244" src="http://artcontrol.me/wp-content/uploads/2015/03/iwillgetyoufool-line-1024x724.png" alt="iwillgetyoufool-line" width="788" height="557"&gt;&lt;/a&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/iwillgetyoufool-bw.png"&gt;&lt;img class="aligncenter size-large wp-image-6242" src="http://artcontrol.me/wp-content/uploads/2015/03/iwillgetyoufool-bw-1024x724.png" alt="iwillgetyoufool-bw" width="788" height="557"&gt;&lt;/a&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/iwillgetyoufool-color.png"&gt;&lt;img class="aligncenter size-large wp-image-6243" src="http://artcontrol.me/wp-content/uploads/2015/03/iwillgetyoufool-color-1024x724.png" alt="iwillgetyoufool-color" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://artcontrol.me/posts/pi-desk.html</guid><pubDate>Thu, 26 Mar 2015 09:59:13 GMT</pubDate></item><item><title>piart imagine</title><link>http://artcontrol.me/posts/piart-imagine.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;I spent several days in Christchurch recently but am now back in Levin.&lt;/p&gt;
-&lt;p&gt;Sadly I left my drawing book in Christchurch and have not drawn since.&lt;/p&gt;
-&lt;p&gt;When I was in Christchurch I did buy a new Raspberry Pi 2 B computer. I had it running Debian and was very impressed with the speed.&lt;/p&gt;
-&lt;p&gt;It is so fast that it allows me to do digital painting in GIMP just the same as on my desktop computer or laptop.&lt;/p&gt;
-&lt;p&gt;I don't have a monitor in Levin for the Pi so have not been able to do more - but here is what I created in Christchurch&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/02/piart-line.png"&gt;&lt;img class="aligncenter size-large wp-image-6224" src="http://artcontrol.me/wp-content/uploads/2015/02/piart-line-1024x724.png" alt="piart-line" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Pi Art. The term used by shop keeper when I picked up my new Pi. Testing marks and getting use to the Pi.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/02/laz-line.png"&gt;&lt;img class="aligncenter size-large wp-image-6225" src="http://artcontrol.me/wp-content/uploads/2015/02/laz-line-1024x724.png" alt="laz-line" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;On the Thursday in Christchurch I went to the Community Centre where I drew with someone. Taking some of these ideas from the drawings into GIMP.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/02/laz-grey.png"&gt;&lt;img class="aligncenter size-large wp-image-6226" src="http://artcontrol.me/wp-content/uploads/2015/02/laz-grey-1024x724.png" alt="laz-grey" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Greyscale tonal layer.&lt;/p&gt;
-&lt;p&gt;Enjoy. It may be good for me to do some digital painting on the laptop. No monitor for the Pi currently.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://artcontrol.me/posts/piart-imagine.html</guid><pubDate>Tue, 17 Feb 2015 02:11:58 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/monkeys-bw.png"&gt;&lt;img class="aligncenter size-large wp-image-6240" src="http://artcontrol.me/wp-content/uploads/2015/03/monkeys-bw-1024x724.png" alt="monkeys-bw" width="788" height="557"&gt;&lt;/a&gt;  &lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/iwillgetyoufool-line.png"&gt;&lt;img class="aligncenter size-large wp-image-6244" src="http://artcontrol.me/wp-content/uploads/2015/03/iwillgetyoufool-line-1024x724.png" alt="iwillgetyoufool-line" width="788" height="557"&gt;&lt;/a&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/iwillgetyoufool-bw.png"&gt;&lt;img class="aligncenter size-large wp-image-6242" src="http://artcontrol.me/wp-content/uploads/2015/03/iwillgetyoufool-bw-1024x724.png" alt="iwillgetyoufool-bw" width="788" height="557"&gt;&lt;/a&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/iwillgetyoufool-color.png"&gt;&lt;img class="aligncenter size-large wp-image-6243" src="http://artcontrol.me/wp-content/uploads/2015/03/iwillgetyoufool-color-1024x724.png" alt="iwillgetyoufool-color" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://artcontrol.me/posts/pi-desk.html</guid><pubDate>Thu, 26 Mar 2015 09:59:13 GMT</pubDate></item></channel></rss>

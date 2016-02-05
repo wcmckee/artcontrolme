@@ -78,6 +78,14 @@
   <lastmod>2016-01-27T18:00:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://artcontrol.me/galleries/2016/02/05/rss.xml</loc>
+  <lastmod>2016-02-05T09:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://artcontrol.me/galleries/2016/02/rss.xml</loc>
+  <lastmod>2016-02-05T09:11:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://artcontrol.me/galleries/2016/rss.xml</loc>
   <lastmod>2016-01-27T18:00:00Z</lastmod>
  </sitemap>
@@ -87,10 +95,10 @@
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/rss.xml</loc>
-  <lastmod>2016-01-31T03:03:00Z</lastmod>
+  <lastmod>2016-02-05T09:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/sitemap.xml</loc>
-  <lastmod>2016-01-31T03:03:00Z</lastmod>
+  <lastmod>2016-02-05T09:37:00Z</lastmod>
  </sitemap>
 </sitemapindex>
