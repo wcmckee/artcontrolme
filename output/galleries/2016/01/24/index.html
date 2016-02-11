@@ -152,7 +152,7 @@ article: http://ogp.me/ns/article#
 </div>
 
             <script src="../../../../assets/js/all-nocdn.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
-    moment.locale("");
+    moment.locale("en");
     fancydates(0, "YYYY-MM-DD HH:mm");
     </script><!-- end fancy dates --><script src="../../../../assets/js/flowr.plugin.js"></script><script>
 jsonContent = [{"size": {"h": 127, "w": 180}, "title": "Borntoshell", "url": "borntoshell.png", "url_thumb": "borntoshell.thumbnail.png"}, {"size": {"h": 122, "w": 180}, "title": "Busit", "url": "busit.png", "url_thumb": "busit.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Ccnsite", "url": "ccnsite.png", "url_thumb": "ccnsite.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Defcon", "url": "defcon.png", "url_thumb": "defcon.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Dignz img", "url": "dignz-img.png", "url_thumb": "dignz-img.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Freelawl", "url": "freelawl.png", "url_thumb": "freelawl.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Getsdrawnske", "url": "getsdrawnske.png", "url_thumb": "getsdrawnske.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Lvcyber", "url": "lvcyber.png", "url_thumb": "lvcyber.thumbnail.png"}, {"size": {"h": 122, "w": 180}, "title": "Lvnbuild", "url": "lvnbuild.png", "url_thumb": "lvnbuild.thumbnail.png"}, {"size": {"h": 122, "w": 180}, "title": "Oldfoods", "url": "oldfoods.png", "url_thumb": "oldfoods.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Scriptgif", "url": "scriptgif.png", "url_thumb": "scriptgif.thumbnail.png"}, {"size": {"h": 122, "w": 180}, "title": "Wcmarmup", "url": "wcmarmup.png", "url_thumb": "wcmarmup.thumbnail.png"}, {"size": {"h": 122, "w": 180}, "title": "Wdhpossession", "url": "wdhpossession.png", "url_thumb": "wdhpossession.thumbnail.png"}];
@@ -190,6 +190,7 @@ $("#gallery_container").flowr({
         }
     });
 $("a.image-reference").colorbox({rel:"gal", maxWidth:"100%",maxHeight:"100%",scalePhotos:true});
+$('a.image-reference[href="'+window.location.hash.substring(1,1000)+'"]').click();
 </script>
 </body>
 </html>

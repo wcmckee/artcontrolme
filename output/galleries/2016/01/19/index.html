@@ -148,7 +148,7 @@ article: http://ogp.me/ns/article#
 </div>
 
             <script src="../../../../assets/js/all-nocdn.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
-    moment.locale("");
+    moment.locale("en");
     fancydates(0, "YYYY-MM-DD HH:mm");
     </script><!-- end fancy dates --><script src="../../../../assets/js/flowr.plugin.js"></script><script>
 jsonContent = [{"size": {"h": 127, "w": 180}, "title": "Ausmil", "url": "ausmil.png", "url_thumb": "ausmil.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Badusb", "url": "badusb.png", "url_thumb": "badusb.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Bbcafe line", "url": "bbcafe-line.png", "url_thumb": "bbcafe-line.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Cybervikinh color", "url": "cybervikinh-color.png", "url_thumb": "cybervikinh-color.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Cybervikinh grayscale", "url": "cybervikinh-grayscale.png", "url_thumb": "cybervikinh-grayscale.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Iswhaat line", "url": "iswhaat-line.png", "url_thumb": "iswhaat-line.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Itwillnotbemine3", "url": "itwillnotbemine3.png", "url_thumb": "itwillnotbemine3.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Keynote", "url": "keynote.png", "url_thumb": "keynote.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Kiwicon6", "url": "kiwicon6.png", "url_thumb": "kiwicon6.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Kiwicon7", "url": "kiwicon7.png", "url_thumb": "kiwicon7.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Kiwiconstart", "url": "kiwiconstart.png", "url_thumb": "kiwiconstart.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Partykiwicon", "url": "partykiwicon.png", "url_thumb": "partykiwicon.thumbnail.png"}];
@@ -186,6 +186,7 @@ $("#gallery_container").flowr({
         }
     });
 $("a.image-reference").colorbox({rel:"gal", maxWidth:"100%",maxHeight:"100%",scalePhotos:true});
+$('a.image-reference[href="'+window.location.hash.substring(1,1000)+'"]').click();
 </script>
 </body>
 </html>

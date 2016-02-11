@@ -144,7 +144,7 @@ article: http://ogp.me/ns/article#
 </div>
 
             <script src="../../../../assets/js/all-nocdn.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
-    moment.locale("");
+    moment.locale("en");
     fancydates(0, "YYYY-MM-DD HH:mm");
     </script><!-- end fancy dates --><script src="../../../../assets/js/flowr.plugin.js"></script><script>
 jsonContent = [{"size": {"h": 122, "w": 180}, "title": "Badfeeling", "url": "badfeeling.png", "url_thumb": "badfeeling.thumbnail.png"}, {"size": {"h": 164, "w": 180}, "title": "Char", "url": "char.png", "url_thumb": "char.thumbnail.png"}, {"size": {"h": 122, "w": 180}, "title": "Decisons", "url": "decisons.png", "url_thumb": "decisons.thumbnail.png"}, {"size": {"h": 122, "w": 180}, "title": "Explosive", "url": "explosive.png", "url_thumb": "explosive.thumbnail.png"}, {"size": {"h": 122, "w": 180}, "title": "Ggj2016 backbw", "url": "ggj2016-backbw.png", "url_thumb": "ggj2016-backbw.thumbnail.png"}, {"size": {"h": 122, "w": 180}, "title": "Ggj2016 backcolor", "url": "ggj2016-backcolor.png", "url_thumb": "ggj2016-backcolor.thumbnail.png"}, {"size": {"h": 122, "w": 180}, "title": "Ggj2016 backline", "url": "ggj2016-backline.png", "url_thumb": "ggj2016-backline.thumbnail.png"}, {"size": {"h": 122, "w": 180}, "title": "Ggj2016", "url": "ggj2016.png", "url_thumb": "ggj2016.thumbnail.png"}, {"size": {"h": 115, "w": 180}, "title": "Riches", "url": "riches.png", "url_thumb": "riches.thumbnail.png"}, {"size": {"h": 122, "w": 180}, "title": "Rihana bw", "url": "rihana-bw.png", "url_thumb": "rihana-bw.thumbnail.png"}, {"size": {"h": 122, "w": 180}, "title": "Rihana", "url": "rihana.png", "url_thumb": "rihana.thumbnail.png"}];
@@ -182,6 +182,7 @@ $("#gallery_container").flowr({
         }
     });
 $("a.image-reference").colorbox({rel:"gal", maxWidth:"100%",maxHeight:"100%",scalePhotos:true});
+$('a.image-reference[href="'+window.location.hash.substring(1,1000)+'"]').click();
 </script>
 </body>
 </html>

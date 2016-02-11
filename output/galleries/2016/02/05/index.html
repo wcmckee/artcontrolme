@@ -128,7 +128,7 @@ article: http://ogp.me/ns/article#
 </div>
 
             <script src="../../../../assets/js/all-nocdn.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
-    moment.locale("");
+    moment.locale("en");
     fancydates(0, "YYYY-MM-DD HH:mm");
     </script><!-- end fancy dates --><script src="../../../../assets/js/flowr.plugin.js"></script><script>
 jsonContent = [{"size": {"h": 127, "w": 180}, "title": "Owasp16 bus", "url": "owasp16-bus.png", "url_thumb": "owasp16-bus.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Owasp16 crypto", "url": "owasp16-crypto.png", "url_thumb": "owasp16-crypto.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Owasp16 foo", "url": "owasp16-foo.png", "url_thumb": "owasp16-foo.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Owasp16 kaltura", "url": "owasp16-kaltura.png", "url_thumb": "owasp16-kaltura.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Owasp16 morning", "url": "owasp16-morning.png", "url_thumb": "owasp16-morning.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Owasp16 plane", "url": "owasp16-plane.png", "url_thumb": "owasp16-plane.thumbnail.png"}, {"size": {"h": 127, "w": 180}, "title": "Owasp16 webrtc", "url": "owasp16-webrtc.png", "url_thumb": "owasp16-webrtc.thumbnail.png"}];
@@ -166,6 +166,7 @@ $("#gallery_container").flowr({
         }
     });
 $("a.image-reference").colorbox({rel:"gal", maxWidth:"100%",maxHeight:"100%",scalePhotos:true});
+$('a.image-reference[href="'+window.location.hash.substring(1,1000)+'"]').click();
 </script>
 </body>
 </html>
