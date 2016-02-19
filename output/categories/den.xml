@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>artcontrol (den)</title><link>http://artcontrol.me/</link><description></description><atom:link type="application/rss+xml" href="http://artcontrol.me/categories/den.xml" rel="self"></atom:link><language>en</language><lastBuildDate>Fri, 19 Feb 2016 05:41:21 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>feb-meetings</title><link>http://artcontrol.me/posts/feb-meetings.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;I have a new touch screen for my Raspberry Pi. It's still the same size - 
+480px by 320px but it is no longer cracked. The touch works! I still have 
+my old touch screen and would like to find a use for it. Attaching it to 
+somewhere that is useful - streaming cat gifs. &lt;/p&gt;
+&lt;p&gt;Here are some recent artworks created with GIMP:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="drawn-pulpfic-bw" src="http://artcontrol.me/galleries/2016/02/19/gdrawn-pulpfic-bw.png"&gt;&lt;/p&gt;
+&lt;p&gt;It doesn't happen often but here is a grayscale tonal painting of 
+PulpFictionDiction from getsdrawn. I like painting the text. I have 
+croped this as the rest of the painting was blank.  &lt;/p&gt;
+&lt;p&gt;&lt;img alt="drawn-pulpfic" src="http://artcontrol.me/galleries/2016/02/19/gdrawn-pulpfic.png"&gt;&lt;/p&gt;
+&lt;p&gt;On the top left is the line layer of the previous painting. The rest of the 
+image is sketches of robots and landscapes. Typical.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="etsdraw" src="http://artcontrol.me/galleries/2016/02/19/getsdrawn.png"&gt;&lt;/p&gt;
+&lt;p&gt;This is sizeways as I had the Raspberry Pi hanging from my bed well I drew.
+Some of the image is up the correct way - the landscape in the bottom left
+looks correct. The text is not.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="hamcompclub" src="http://artcontrol.me/galleries/2016/02/19/hamcompclub.png"&gt;&lt;/p&gt;
+&lt;p&gt;This was drawn at the Hamilton Computer Club. It was the Feb 2016 Thursday
+meeting.  Sadly the meeting was spent sorting 'rules'. I guess it needed to
+be sorted but I'm looking forward to speakers later on in the year. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="hpug-ldo" src="http://artcontrol.me/galleries/2016/02/19/hpug-ldo.png"&gt;&lt;/p&gt;
+&lt;p&gt;This was drawn during the Hamilton Python User Group. Again this was the 
+Feb 2016 meeting. Lorance did a talk on IPython/Jupyter Notebook. There 
+was also much discussion regarding next months meeting. Next month I will
+do a talk on Nikola.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="lca16-start" src="http://artcontrol.me/galleries/2016/02/19/lca16-start.png"&gt;&lt;/p&gt;
+&lt;p&gt;I have been watching Linux Conf Aus videos on my laptop and painting them
+as I watch them. It is certainly not the experience of being there, but 
+the talk talks are informative. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="monster-cake" src="http://artcontrol.me/galleries/2016/02/19/monster-cake.png"&gt;&lt;/p&gt;
+&lt;p&gt;No text, just drawing. Monsters, robots, and landscapes.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="alace-begi" src="http://artcontrol.me/galleries/2016/02/19/palace-begin.png"&gt;&lt;/p&gt;
+&lt;p&gt;I use to be a big fan of the website conceptart.org especially
+during my time at The Learning Connextion. It had been awhile 
+since I had visited the site so I took a look. Enviortments on 
+the week was always my favourite. The theme was Palace of Time. 
+I need to visit the site regularly as it is great inspirion for 
+drawing. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="sleepslee" src="http://artcontrol.me/galleries/2016/02/19/sleepsleep.png"&gt;&lt;/p&gt;
+&lt;p&gt;several portraits draw from getsdrawn. isnipor and tklfota. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="wacom-artist" src="http://artcontrol.me/galleries/2016/02/19/wacom-artist.png"&gt;&lt;/p&gt;
+&lt;p&gt;Illustation of my setup and a self portrait.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="wdh-feb" src="http://artcontrol.me/galleries/2016/02/19/wdh-feb.png"&gt;&lt;/p&gt;
+&lt;p&gt;writers den notes during the meeting. I got there late but got
+quite a bit of drawing completed. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="wdh-romance" src="http://artcontrol.me/galleries/2016/02/19/wdh-romance.png"&gt;&lt;/p&gt;
+&lt;p&gt;The theme for the next Writers Den Hamilton is romance. It was 
+my idea. I am not going to be at the next meeting but I've 
+been thinking about the theme and have ideas. &lt;/p&gt;
+&lt;p&gt;This was drawn at the Sunday Den meeting, it was mostly sketching 
+ideas for the romance theme. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="write-ladder" src="http://artcontrol.me/galleries/2016/02/19/write-ladder.png"&gt;&lt;/p&gt;
+&lt;p&gt;Short story I started during the Wednesday Den meeting. The words 
+on the left of the page are prompts given by each member. We were 
+given ten minutes to come up with a story with the words. A points 
+system was used but it didn't really work. Who's counting? &lt;/p&gt;&lt;/div&gt;</description><category>den</category><category>digital painting</category><category>gimp</category><category>python</category><guid>http://artcontrol.me/posts/feb-meetings.html</guid><pubDate>Thu, 18 Feb 2016 12:46:01 GMT</pubDate></item></channel></rss>

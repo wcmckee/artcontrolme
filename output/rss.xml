@@ -1,5 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>artcontrol</title><link>http://artcontrol.me/</link><description>Artwork of William Mckee</description><atom:link href="http://artcontrol.me/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Thu, 11 Feb 2016 11:34:21 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>owaspnz</title><link>http://artcontrol.me/posts/owaspnz.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;I missed out on attending LCA2016 but was lucky enough to
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>artcontrol</title><link>http://artcontrol.me/</link><description>Artwork of William Mckee</description><atom:link type="application/rss+xml" href="http://artcontrol.me/rss.xml" rel="self"></atom:link><language>en</language><lastBuildDate>Fri, 19 Feb 2016 05:41:21 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>feb-meetings</title><link>http://artcontrol.me/posts/feb-meetings.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;I have a new touch screen for my Raspberry Pi. It's still the same size - 
+480px by 320px but it is no longer cracked. The touch works! I still have 
+my old touch screen and would like to find a use for it. Attaching it to 
+somewhere that is useful - streaming cat gifs. &lt;/p&gt;
+&lt;p&gt;Here are some recent artworks created with GIMP:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="drawn-pulpfic-bw" src="http://artcontrol.me/galleries/2016/02/19/gdrawn-pulpfic-bw.png"&gt;&lt;/p&gt;
+&lt;p&gt;It doesn't happen often but here is a grayscale tonal painting of 
+PulpFictionDiction from getsdrawn. I like painting the text. I have 
+croped this as the rest of the painting was blank.  &lt;/p&gt;
+&lt;p&gt;&lt;img alt="drawn-pulpfic" src="http://artcontrol.me/galleries/2016/02/19/gdrawn-pulpfic.png"&gt;&lt;/p&gt;
+&lt;p&gt;On the top left is the line layer of the previous painting. The rest of the 
+image is sketches of robots and landscapes. Typical.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="etsdraw" src="http://artcontrol.me/galleries/2016/02/19/getsdrawn.png"&gt;&lt;/p&gt;
+&lt;p&gt;This is sizeways as I had the Raspberry Pi hanging from my bed well I drew.
+Some of the image is up the correct way - the landscape in the bottom left
+looks correct. The text is not.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="hamcompclub" src="http://artcontrol.me/galleries/2016/02/19/hamcompclub.png"&gt;&lt;/p&gt;
+&lt;p&gt;This was drawn at the Hamilton Computer Club. It was the Feb 2016 Thursday
+meeting.  Sadly the meeting was spent sorting 'rules'. I guess it needed to
+be sorted but I'm looking forward to speakers later on in the year. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="hpug-ldo" src="http://artcontrol.me/galleries/2016/02/19/hpug-ldo.png"&gt;&lt;/p&gt;
+&lt;p&gt;This was drawn during the Hamilton Python User Group. Again this was the 
+Feb 2016 meeting. Lorance did a talk on IPython/Jupyter Notebook. There 
+was also much discussion regarding next months meeting. Next month I will
+do a talk on Nikola.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="lca16-start" src="http://artcontrol.me/galleries/2016/02/19/lca16-start.png"&gt;&lt;/p&gt;
+&lt;p&gt;I have been watching Linux Conf Aus videos on my laptop and painting them
+as I watch them. It is certainly not the experience of being there, but 
+the talk talks are informative. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="monster-cake" src="http://artcontrol.me/galleries/2016/02/19/monster-cake.png"&gt;&lt;/p&gt;
+&lt;p&gt;No text, just drawing. Monsters, robots, and landscapes.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="alace-begi" src="http://artcontrol.me/galleries/2016/02/19/palace-begin.png"&gt;&lt;/p&gt;
+&lt;p&gt;I use to be a big fan of the website conceptart.org especially
+during my time at The Learning Connextion. It had been awhile 
+since I had visited the site so I took a look. Enviortments on 
+the week was always my favourite. The theme was Palace of Time. 
+I need to visit the site regularly as it is great inspirion for 
+drawing. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="sleepslee" src="http://artcontrol.me/galleries/2016/02/19/sleepsleep.png"&gt;&lt;/p&gt;
+&lt;p&gt;several portraits draw from getsdrawn. isnipor and tklfota. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="wacom-artist" src="http://artcontrol.me/galleries/2016/02/19/wacom-artist.png"&gt;&lt;/p&gt;
+&lt;p&gt;Illustation of my setup and a self portrait.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="wdh-feb" src="http://artcontrol.me/galleries/2016/02/19/wdh-feb.png"&gt;&lt;/p&gt;
+&lt;p&gt;writers den notes during the meeting. I got there late but got
+quite a bit of drawing completed. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="wdh-romance" src="http://artcontrol.me/galleries/2016/02/19/wdh-romance.png"&gt;&lt;/p&gt;
+&lt;p&gt;The theme for the next Writers Den Hamilton is romance. It was 
+my idea. I am not going to be at the next meeting but I've 
+been thinking about the theme and have ideas. &lt;/p&gt;
+&lt;p&gt;This was drawn at the Sunday Den meeting, it was mostly sketching 
+ideas for the romance theme. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="write-ladder" src="http://artcontrol.me/galleries/2016/02/19/write-ladder.png"&gt;&lt;/p&gt;
+&lt;p&gt;Short story I started during the Wednesday Den meeting. The words 
+on the left of the page are prompts given by each member. We were 
+given ten minutes to come up with a story with the words. A points 
+system was used but it didn't really work. Who's counting? &lt;/p&gt;&lt;/div&gt;</description><category>den</category><category>digital painting</category><category>gimp</category><category>python</category><guid>http://artcontrol.me/posts/feb-meetings.html</guid><pubDate>Thu, 18 Feb 2016 12:46:01 GMT</pubDate></item><item><title>wcelfest16</title><link>http://artcontrol.me/posts/wcelfest16.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;Another week, another conference. This week I got along to WCELfest. It's an
+digital elearning conference held at Waikato University. &lt;/p&gt;
+&lt;p&gt;Here are the paintings that I created during the event:  &lt;/p&gt;
+&lt;p&gt;&lt;img alt="wcelfest-hello" src="http://artcontrol.me/galleries/2016/02/12/wcelfest-hello.png"&gt;&lt;/p&gt;
+&lt;p&gt;Drawing and note taking of the beginning of the conference including the keynote
+speaker - Terry Anderson. It was an excellent keynote. I especially enjoyed him
+talking about copyright and open access. There was no mention of Creative 
+Commons, but I was actively tweeting with mentions of Creative Commons.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="wcelfest-cyber" src="http://artcontrol.me/galleries/2016/02/12/wcelfest-cyber.png"&gt;&lt;/p&gt;
+&lt;p&gt;This was the final image of the day. I had grown tired after lunch with 
+productivity dropping. Maybe I should of switched. I am use to going to 
+conferences and sticking to the same room all week. Maybe they could of 
+given the streams topic names?&lt;/p&gt;
+&lt;p&gt;One of the streams was workshop based which I wasn't interested in. The third
+stream looked like they had some interesting stuff. But at the end of the day
+it doesn't matter. I enjoyed myself and looking forward to watching the talks
+online that I missed. &lt;/p&gt;
+&lt;p&gt;CYBER is hilarious. lulz when I heard the phase CYBER BULLY. Drinks a shot. 
+CYBER was brought up again by the law dean as 
+CYBER LAW. He was on a roll and rapped off a bunch of CYBER terms. Kiwicon
+would of been proud. Finishes the bottle. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="wcelfest-digitalbadge" src="http://artcontrol.me/galleries/2016/02/12/wcelfest-digitalbadge.png"&gt;&lt;/p&gt;
+&lt;p&gt;Digital Badge. When I saw the title of this talk I got excited, thinking they
+were referring to LED based name tags but instead it was achievement points in 
+a education course. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="wcelfest-jones" src="http://artcontrol.me/galleries/2016/02/12/wcelfest-jones.png"&gt;&lt;/p&gt;
+&lt;p&gt;Welsh fella - Glyndwr Jones or JONES did a talk on blended classes. He was 
+quite the character and funny. The painting lacks much drawing - only a sad
+cat due to parking charges at Waikato University. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="wcelfest-otago" src="http://artcontrol.me/galleries/2016/02/12/wcelfest-otago.png"&gt;&lt;/p&gt;
+&lt;p&gt;This was an interesting talk as the speakers talked about SCRUM development 
+being
+used for course development. It's normally used in software development and great
+to see it's crossing areas. &lt;/p&gt;&lt;/div&gt;</description><category>digital painting</category><category>gimp</category><category>wcelfest</category><guid>http://artcontrol.me/posts/wcelfest16.html</guid><pubDate>Thu, 11 Feb 2016 12:46:01 GMT</pubDate></item><item><title>owaspnz</title><link>http://artcontrol.me/posts/owaspnz.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;I missed out on attending LCA2016 but was lucky enough to
 make it to OWASP - a one day security conference. 
 Like all the recent conferences I have attended I took in my Raspberry 
 Pi and painted. The Pi was of interest,
@@ -284,28 +372,4 @@ Since then the art has been restored but it's not linking correctly on artcontro
 &lt;p&gt;I will end with this. Red line layer. Characters for the gamejam Adventure Jam. It goes for two weeks. I'm not sure how much I'll get done - so far I've only produced paintings. The name of my game is &lt;em&gt;Hunt For Naples Yellow. &lt;/em&gt;The name is inspired from the film &lt;em&gt;The Hunt For Red October &lt;/em&gt;and named after my digital painting/python dev pi machine - naplesyellow.&lt;/p&gt;
 &lt;p&gt;Naming all servers after colours.&lt;/p&gt;
 &lt;p&gt;Crayons.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/04/nychar1-bw.png"&gt;&lt;img class="aligncenter size-large wp-image-6256" src="http://artcontrol.me/wp-content/uploads/2015/04/nychar1-bw-1024x724.png" alt="nychar1-bw" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://artcontrol.me/posts/pi-weekend.html</guid><pubDate>Wed, 15 Apr 2015 00:02:55 GMT</pubDate></item><item><title>pimonitor imagine</title><link>http://artcontrol.me/posts/pimonitor-imagine.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;I have the Raspberry Pi 2 B setup with a touch screen monitor attached to the GPIO and my wacom drawing tablet (small) attached with USB. I have my GIMP settings setup so it hides everything. I just need to go into fullscreen and the painting covers the whole screen.&lt;/p&gt;
-&lt;p&gt;I hide the taskbar and just use right click on the tablet to get it back. This is much better use of the screen.&lt;/p&gt;
-&lt;p&gt;Grayscale and Colour tonal layers are posible but it's easier to just do the red line layer.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/04/ava1-line.png"&gt;&lt;img class="aligncenter size-large wp-image-6248" src="http://artcontrol.me/wp-content/uploads/2015/04/ava1-line-1024x724.png" alt="ava1-line" width="788" height="557"&gt;&lt;/a&gt; &lt;a href="http://artcontrol.me/wp-content/uploads/2015/04/ava2-line.png"&gt;&lt;img class="aligncenter size-large wp-image-6249" src="http://artcontrol.me/wp-content/uploads/2015/04/ava2-line-1024x724.png" alt="ava2-line" width="788" height="557"&gt;&lt;/a&gt; &lt;a href="http://artcontrol.me/wp-content/uploads/2015/04/bird.png"&gt;&lt;img class="aligncenter size-large wp-image-6250" src="http://artcontrol.me/wp-content/uploads/2015/04/bird-1024x724.png" alt="bird" width="788" height="557"&gt;&lt;/a&gt; &lt;a href="http://artcontrol.me/wp-content/uploads/2015/04/ava3-line.png"&gt;&lt;img class="aligncenter size-large wp-image-6251" src="http://artcontrol.me/wp-content/uploads/2015/04/ava3-line-1024x724.png" alt="ava3-line" width="788" height="557"&gt;&lt;/a&gt; &lt;a href="http://artcontrol.me/wp-content/uploads/2015/04/bird-bw.png"&gt;&lt;img class="aligncenter size-large wp-image-6252" src="http://artcontrol.me/wp-content/uploads/2015/04/bird-bw-1024x724.png" alt="bird-bw" width="788" height="557"&gt;&lt;/a&gt; &lt;a href="http://artcontrol.me/wp-content/uploads/2015/04/bird-color.png"&gt;&lt;img class="aligncenter size-large wp-image-6253" src="http://artcontrol.me/wp-content/uploads/2015/04/bird-color-1024x724.png" alt="bird-color" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://artcontrol.me/posts/pimonitor-imagine.html</guid><pubDate>Tue, 07 Apr 2015 03:52:16 GMT</pubDate></item><item><title>pi desk</title><link>http://artcontrol.me/posts/pi-desk.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;So after over a month I have finally got my Raspberry Pi 2 B setup and running. I had problems with the power supply - 5v 2a is needed but all my powersupply had low a.&lt;/p&gt;
-&lt;p&gt;The Pi is connected to a 17 inch monitor with a vga to html converter. GIMP is really all I am using it for. I have Raspberry Pi B+ with touch screen monitor attached that I use for reference photos.&lt;/p&gt;
-&lt;p&gt;Anyway here they are, a mixture of from imagaination and getsdrawn paintings.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/bambrosephoto-line.png"&gt;&lt;img class="aligncenter size-large wp-image-6234" src="http://artcontrol.me/wp-content/uploads/2015/03/bambrosephoto-line-1024x724.png" alt="bambrosephoto-line" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Bombrosephoto line layer. Glasses holding camera. Minimal background landscape.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/bambrosephoto-bw.png"&gt;&lt;img class="aligncenter size-large wp-image-6232" src="http://artcontrol.me/wp-content/uploads/2015/03/bambrosephoto-bw-1024x724.png" alt="bambrosephoto-bw" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Grayscale. Ignored the background and just focused on the portraits. Keeping it simple and minimal.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/bambrosephoto-color.png"&gt;&lt;img class="aligncenter size-large wp-image-6233" src="http://artcontrol.me/wp-content/uploads/2015/03/bambrosephoto-color-1024x724.png" alt="bambrosephoto-color" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Colour. New purple (modifed the red) for glasses.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/deskand-line.png"&gt;&lt;img class="aligncenter size-large wp-image-6236" src="http://artcontrol.me/wp-content/uploads/2015/03/deskand-line-1024x724.png" alt="deskand-line" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Raspberry Head creature with walking desk and monitor. Line layer. Pillars in background.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/deskand-bw.png"&gt;&lt;img class="aligncenter size-large wp-image-6235" src="http://artcontrol.me/wp-content/uploads/2015/03/deskand-bw-1024x724.png" alt="deskand-bw" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Grayscale. Spikes&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/drawinpi-line.png"&gt;&lt;img class="aligncenter size-large wp-image-6239" src="http://artcontrol.me/wp-content/uploads/2015/03/drawinpi-line-1024x724.png" alt="drawinpi-line" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Logos. Debian. Raspberry Pi. GetsDrawn. Just playing and getting use to tablet with pi&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/drawinpi-bw.png"&gt;&lt;img class="aligncenter size-large wp-image-6237" src="http://artcontrol.me/wp-content/uploads/2015/03/drawinpi-bw-1024x724.png" alt="drawinpi-bw" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Grayscale. The three logos again.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/drawinpi-color.png"&gt;&lt;img class="aligncenter size-large wp-image-6238" src="http://artcontrol.me/wp-content/uploads/2015/03/drawinpi-color-1024x724.png" alt="drawinpi-color" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Color. Exploring purples and oranges. Green and Red for Pi.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/monkeys-line.png"&gt;&lt;img class="aligncenter size-large wp-image-6241" src="http://artcontrol.me/wp-content/uploads/2015/03/monkeys-line-1024x724.png" alt="monkeys-line" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Taylor Swift. Landscape, imagaination. Robot on the left&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/monkeys-bw.png"&gt;&lt;img class="aligncenter size-large wp-image-6240" src="http://artcontrol.me/wp-content/uploads/2015/03/monkeys-bw-1024x724.png" alt="monkeys-bw" width="788" height="557"&gt;&lt;/a&gt;  &lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/iwillgetyoufool-line.png"&gt;&lt;img class="aligncenter size-large wp-image-6244" src="http://artcontrol.me/wp-content/uploads/2015/03/iwillgetyoufool-line-1024x724.png" alt="iwillgetyoufool-line" width="788" height="557"&gt;&lt;/a&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/iwillgetyoufool-bw.png"&gt;&lt;img class="aligncenter size-large wp-image-6242" src="http://artcontrol.me/wp-content/uploads/2015/03/iwillgetyoufool-bw-1024x724.png" alt="iwillgetyoufool-bw" width="788" height="557"&gt;&lt;/a&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/03/iwillgetyoufool-color.png"&gt;&lt;img class="aligncenter size-large wp-image-6243" src="http://artcontrol.me/wp-content/uploads/2015/03/iwillgetyoufool-color-1024x724.png" alt="iwillgetyoufool-color" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://artcontrol.me/posts/pi-desk.html</guid><pubDate>Thu, 26 Mar 2015 09:59:13 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="http://artcontrol.me/wp-content/uploads/2015/04/nychar1-bw.png"&gt;&lt;img class="aligncenter size-large wp-image-6256" src="http://artcontrol.me/wp-content/uploads/2015/04/nychar1-bw-1024x724.png" alt="nychar1-bw" width="788" height="557"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://artcontrol.me/posts/pi-weekend.html</guid><pubDate>Wed, 15 Apr 2015 00:02:55 GMT</pubDate></item></channel></rss>

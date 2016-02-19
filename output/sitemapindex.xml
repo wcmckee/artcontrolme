@@ -6,103 +6,119 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>http://artcontrol.me/categories/den.xml</loc>
+  <lastmod>2016-02-19T05:41:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://artcontrol.me/categories/digital-painting.xml</loc>
-  <lastmod>2016-02-11T11:34:00Z</lastmod>
+  <lastmod>2016-02-19T05:41:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/categories/digital.xml</loc>
-  <lastmod>2016-02-11T11:34:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/categories/getsdrawn.xml</loc>
-  <lastmod>2016-02-11T11:34:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/categories/gimp.xml</loc>
-  <lastmod>2016-02-11T11:34:00Z</lastmod>
+  <lastmod>2016-02-19T05:41:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/categories/kiwicon.xml</loc>
-  <lastmod>2016-02-11T11:34:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/categories/painting.xml</loc>
-  <lastmod>2016-02-11T11:34:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://artcontrol.me/categories/python.xml</loc>
+  <lastmod>2016-02-19T05:41:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://artcontrol.me/categories/wcelfest.xml</loc>
+  <lastmod>2016-02-19T05:41:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/categories/writersden.xml</loc>
-  <lastmod>2016-02-11T11:34:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/galleries/2015/06/rss.xml</loc>
-  <lastmod>2016-02-11T11:17:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/galleries/2015/09/rss.xml</loc>
-  <lastmod>2016-02-11T11:17:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/galleries/2015/10/30/rss.xml</loc>
-  <lastmod>2016-02-11T11:33:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/galleries/2015/10/rss.xml</loc>
-  <lastmod>2016-02-11T11:33:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/galleries/2015/12/29/rss.xml</loc>
-  <lastmod>2016-02-11T11:33:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/galleries/2015/12/rss.xml</loc>
-  <lastmod>2016-02-11T11:33:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/galleries/2015/rss.xml</loc>
-  <lastmod>2016-02-11T11:33:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/galleries/2016/01/19/rss.xml</loc>
-  <lastmod>2016-02-11T11:32:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/galleries/2016/01/24/rss.xml</loc>
-  <lastmod>2016-02-11T11:32:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/galleries/2016/01/31/rss.xml</loc>
-  <lastmod>2016-02-11T11:32:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/galleries/2016/01/rss.xml</loc>
-  <lastmod>2016-02-11T11:32:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/galleries/2016/02/05/rss.xml</loc>
-  <lastmod>2016-02-11T11:32:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/galleries/2016/02/12/rss.xml</loc>
-  <lastmod>2016-02-11T11:33:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://artcontrol.me/galleries/2016/02/19/rss.xml</loc>
+  <lastmod>2016-02-19T05:41:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/galleries/2016/02/rss.xml</loc>
-  <lastmod>2016-02-11T11:32:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/galleries/2016/rss.xml</loc>
-  <lastmod>2016-02-11T11:32:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/galleries/rss.xml</loc>
-  <lastmod>2016-02-11T11:32:00Z</lastmod>
+  <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/rss.xml</loc>
-  <lastmod>2016-02-11T11:34:00Z</lastmod>
+  <lastmod>2016-02-19T05:41:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/sitemap.xml</loc>
-  <lastmod>2016-02-11T11:34:00Z</lastmod>
+  <lastmod>2016-02-19T05:41:00Z</lastmod>
  </sitemap>
 </sitemapindex>
