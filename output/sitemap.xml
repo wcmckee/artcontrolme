@@ -27,7 +27,7 @@
  </url>
  <url>
   <loc>http://artcontrol.me/2016/index.html</loc>
-  <lastmod>2016-02-19T05:38:00Z</lastmod>
+  <lastmod>2016-02-24T13:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/about.html</loc>
@@ -35,7 +35,15 @@
  </url>
  <url>
   <loc>http://artcontrol.me/archive.html</loc>
-  <lastmod>2016-02-19T05:38:00Z</lastmod>
+  <lastmod>2016-02-24T13:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://artcontrol.me/categories/americangods.html</loc>
+  <lastmod>2016-02-24T13:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://artcontrol.me/categories/comic.html</loc>
+  <lastmod>2016-02-24T13:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/categories/den.html</loc>
@@ -55,15 +63,23 @@
  </url>
  <url>
   <loc>http://artcontrol.me/categories/gimp.html</loc>
-  <lastmod>2016-02-19T05:41:00Z</lastmod>
+  <lastmod>2016-02-24T13:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/categories/index.html</loc>
-  <lastmod>2016-02-19T05:41:00Z</lastmod>
+  <lastmod>2016-02-24T13:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://artcontrol.me/categories/jem.html</loc>
+  <lastmod>2016-02-24T13:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/categories/kiwicon.html</loc>
   <lastmod>2016-02-19T05:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://artcontrol.me/categories/novel.html</loc>
+  <lastmod>2016-02-24T13:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/categories/painting.html</loc>
@@ -138,8 +154,12 @@
   <lastmod>2016-02-19T05:41:00Z</lastmod>
  </url>
  <url>
+  <loc>http://artcontrol.me/galleries/2016/02/25/index.html</loc>
+  <lastmod>2016-02-24T12:21:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://artcontrol.me/galleries/2016/02/index.html</loc>
-  <lastmod>2016-02-19T05:38:00Z</lastmod>
+  <lastmod>2016-02-24T12:19:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/galleries/2016/index.html</loc>
@@ -299,7 +319,7 @@
  </url>
  <url>
   <loc>http://artcontrol.me/index-43.html</loc>
-  <lastmod>2016-02-19T05:41:00Z</lastmod>
+  <lastmod>2016-02-24T13:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/index-5.html</loc>
@@ -323,7 +343,7 @@
  </url>
  <url>
   <loc>http://artcontrol.me/index.html</loc>
-  <lastmod>2016-02-19T05:41:00Z</lastmod>
+  <lastmod>2016-02-24T13:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/posts/1131.html</loc>
@@ -676,6 +696,10 @@
  <url>
   <loc>http://artcontrol.me/posts/alley-darkness.html</loc>
   <lastmod>2016-02-19T05:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://artcontrol.me/posts/american-gods-jem-city.html</loc>
+  <lastmod>2016-02-24T13:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/posts/andrew-a6-doodles.html</loc>
@@ -1075,7 +1099,7 @@
  </url>
  <url>
   <loc>http://artcontrol.me/posts/feb-meetings.html</loc>
-  <lastmod>2016-02-19T05:41:00Z</lastmod>
+  <lastmod>2016-02-24T13:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://artcontrol.me/posts/figurative-expressions-russel.html</loc>
