@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>artcontrol (waikato)</title><link>http://artcontrol.me/</link><description></description><atom:link type="application/rss+xml" href="http://artcontrol.me/categories/waikato.xml" rel="self"></atom:link><language>en</language><lastBuildDate>Sun, 28 Feb 2016 12:16:31 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>uni-crash</title><link>http://artcontrol.me/posts/uni-crash.html</link><dc:creator>wcmckee</dc:creator><description>&lt;div&gt;&lt;p&gt;Art created with my new Raspberry Pi touch screen and Wacom tablet. 
+It is awesome but slightly annoying to carry around. I need a 3d printer to
+print a case for it that would allow me to attach both the Wacom and Pi/Screen
+to my body (perhaps my right arm). &lt;/p&gt;
+&lt;p&gt;Some interesting reactions on the street to the setup. As I was crossing a 
+Hamilton bridge a young Maori woman walked past, 
+saw my setup and spoke 'wtf is that' to her friend. It's no different
+to an iPhone - it's only a computer at the end of the day. &lt;/p&gt;
+&lt;p&gt;Here's the art: &lt;/p&gt;
+&lt;p&gt;&lt;img alt="ccinschools" src="http://artcontrol.me/galleries/2016/02/29/ccinschools.png"&gt;&lt;/p&gt;
+&lt;p&gt;Matt made a post about the future of nzcommons so I was inspired to work on 
+my fork of the site. It's a mess as I was working on a computer that was having
+issues with dependencies of Python. I need to work on it on my main laptop (Dell)
+which has no issues with dependencies. &lt;/p&gt;
+&lt;p&gt;I remixed elements of the 
+&lt;a href="http://creativecommons.org.nz/ccinschools/"&gt;cc in schools&lt;/a&gt;, including the 
+Kiwi illustration. 
+Comic started in the bottom left with the Kiwi speaking, 'Policies for 
+Schools'.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="introe" src="http://artcontrol.me/galleries/2016/02/29/introeng.png"&gt;&lt;/p&gt;
+&lt;p&gt;These are notes on a lecture that I attended for an Engineering paper. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="kisslol" src="http://artcontrol.me/galleries/2016/02/29/kisslol.png"&gt;&lt;/p&gt;
+&lt;p&gt;FreezingOverHell getsdrawn portrait on the left and a remix of one of Jems 
+comics. This was from a panel of her Sunshine comic. Hot. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="sitwaits" src="http://artcontrol.me/galleries/2016/02/29/sitwaits.png"&gt;&lt;/p&gt;
+&lt;p&gt;Drawn walking around Hamilton. Just sketches of landscapes.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="unigdraw" src="http://artcontrol.me/galleries/2016/02/29/unigdrawn.png"&gt;&lt;/p&gt;
+&lt;p&gt;Three portraits from getsdrawn. This of course breaks the 'don't draw multi 
+people on the same page' rule, but I'm an expert at breaking getsdrawn rules. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="writde" src="http://artcontrol.me/galleries/2016/02/29/writden.png"&gt;&lt;/p&gt;
+&lt;p&gt;WritersDenHamilton. I am happy with the current logo but maybe something 
+with an illustration would be nice. Used the writers den Hamilton logo that 
+the library uses to promote the group. They don't use my logo that
+I made for the group. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="xkcdba" src="http://artcontrol.me/galleries/2016/02/29/xkcdban.png"&gt;&lt;/p&gt;
+&lt;p&gt;xkcd banned from conference. I have yet to be banned from a conference but it's
+something that could happen. Exciting. The original comic that I remixed from 
+is &lt;a href="https://xkcd.com/541/"&gt;xkcd: TED TALKS&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>digital painting</category><category>getsdrawn</category><category>waikato</category><category>writersden</category><guid>http://artcontrol.me/posts/uni-crash.html</guid><pubDate>Sun, 28 Feb 2016 11:46:01 GMT</pubDate></item></channel></rss>

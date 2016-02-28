@@ -19,7 +19,7 @@
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/categories/digital-painting.xml</loc>
-  <lastmod>2016-02-19T05:41:00Z</lastmod>
+  <lastmod>2016-02-28T12:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/categories/digital.xml</loc>
@@ -27,7 +27,7 @@
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/categories/getsdrawn.xml</loc>
-  <lastmod>2016-02-19T05:35:00Z</lastmod>
+  <lastmod>2016-02-28T12:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/categories/gimp.xml</loc>
@@ -54,12 +54,16 @@
   <lastmod>2016-02-19T05:41:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://artcontrol.me/categories/waikato.xml</loc>
+  <lastmod>2016-02-28T12:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://artcontrol.me/categories/wcelfest.xml</loc>
   <lastmod>2016-02-19T05:41:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/categories/writersden.xml</loc>
-  <lastmod>2016-02-19T05:35:00Z</lastmod>
+  <lastmod>2016-02-28T12:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/galleries/2015/06/rss.xml</loc>
@@ -122,6 +126,10 @@
   <lastmod>2016-02-24T12:21:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://artcontrol.me/galleries/2016/02/29/rss.xml</loc>
+  <lastmod>2016-02-28T11:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://artcontrol.me/galleries/2016/02/rss.xml</loc>
   <lastmod>2016-02-19T05:35:00Z</lastmod>
  </sitemap>
@@ -135,10 +143,10 @@
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/rss.xml</loc>
-  <lastmod>2016-02-24T13:12:00Z</lastmod>
+  <lastmod>2016-02-28T12:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://artcontrol.me/sitemap.xml</loc>
-  <lastmod>2016-02-24T13:12:00Z</lastmod>
+  <lastmod>2016-02-28T12:16:00Z</lastmod>
  </sitemap>
 </sitemapindex>
