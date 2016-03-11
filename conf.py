@@ -18,15 +18,15 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "wcmckee"  # (translatable)
-BLOG_TITLE = "artcontrol"  # (translatable)
+BLOG_TITLE = "artctrl"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://artcontrol.me/"
+SITE_URL = "http://artctrl.me/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://artcontrol.me/"
 BLOG_EMAIL = "will@artcontrol.me"
-BLOG_DESCRIPTION = "Artwork of William Mckee"  # (translatable)
+BLOG_DESCRIPTION = "open-source art by William Mckee"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -166,6 +166,7 @@ POSTS = (
         )
 PAGES = (
             ("stories/*.wp", "", "story.tmpl"),
+	    ("stories/*.md", "", "story.tmpl"),
         )
 
 # One or more folders containing files to be copied as-is into the output.
