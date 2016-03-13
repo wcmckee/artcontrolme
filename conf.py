@@ -93,11 +93,13 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 # (the same way you would do with a (translatable) setting.)
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+	("/about.html", "About"),
         ("/archive.html", "Archives"),
         ("/categories/index.html", "Tags"),
 	("/galleries", "Galleries"),
         ("/rss.xml", "RSS feed"),
         ("https://twitter.com/art_control", "Twitter"),
+	("https://github.com/wcmckee/artcontrolme", "Source"),
 ),
 }
 

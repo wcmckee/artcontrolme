@@ -9,9 +9,15 @@
 .. type: text
 -->
 
-ArtControl is a website for the Artwork created by artist William Mckee.
-It serves as a home for him to upload his art and write about it.
-Originally a WordPress site it is now a static based site thanks to the
-Python Static Site Generator - Nikola. 
+ArtCtrl is free and open-source art by William Mckee. 
 
-You can get in contact with William by emailing him: will@artcontrol.me
+Originally a WordPress site but now powered by Python static 
+site generator - Nikola.
+
+Formally known as ArtControl but has been shortened to ArtCtrl.
+Any old links are redirected. 
+
+Site contents (images, writing, videos) are licenced under a
+Creative Commons BY 4.0 licence.
+
+You can get in contact with William by emailing him: will at artcontrol dot me
