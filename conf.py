@@ -98,6 +98,8 @@ NAVIGATION_LINKS = {
         ("/categories/index.html", "Tags"),
 	("/galleries", "Galleries"),
         ("/rss.xml", "RSS feed"),
+        ("http://artctrl.me/tech", "Tech Blog"),
+        ("http://artctrl.me/write", "Writing"),
         ("https://twitter.com/art_control", "Twitter"),
 	("https://github.com/wcmckee/artcontrolme", "Source"),
 ),
